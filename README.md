@@ -1,0 +1,2 @@
+# SkywarsStats
+Get skywars stats.
